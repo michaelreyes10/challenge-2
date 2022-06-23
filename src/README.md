@@ -1,0 +1,2 @@
+This challenge is designed to create a responsive portfolio from scratch. This is the beggining of my web developement jounrey and I am fairly proud of the work that was created. This portfolio shows that I am grasping the basics of web developemnt and I am excited to build on these fundamentals. One of the purposes of this challenge is to essentially have somewhere to store your work and be able to present your coding skills. I am far from where I would like to be however, this portfolio is a mini milestone that I have reached in my career as a full stack developer. 
+  
